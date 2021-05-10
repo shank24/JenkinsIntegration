@@ -1,4 +1,4 @@
 echo "This script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This will run via a Github"
+echo "This will run via a Github Webhook"
